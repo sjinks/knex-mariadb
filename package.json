@@ -1,0 +1,27 @@
+{
+  "name": "knex-mariadb",
+  "version": "1.0.0",
+  "description": "MariaDB Client for Knex.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sjinks/knex-mariadb.git"
+  },
+  "keywords": [
+    "knex",
+    "mariadb"
+  ],
+  "author": "Volodymyr Kolesnykov <volodymyr@wildwolf.name> (https://wildwolf.name/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sjinks/knex-mariadb/issues"
+  },
+  "homepage": "https://github.com/sjinks/knex-mariadb#readme",
+  "peerDependencies": {
+    "knex": ">=0.15.0",
+    "mariadb": "*"
+  }
+}
