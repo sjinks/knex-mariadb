@@ -8,7 +8,7 @@ MariaDB Client for Knex.js
 npm i --save-dev knex-mariadb
 ```
 
-`knex-mariadb` has peer dependencies on `knex` and `mariadb`, please make sure that they are installed as well.
+`knex-mariadb` has peer dependencies on [`knex`](https://www.npmjs.com/package/knex) and [`mariadb`](https://www.npmjs.com/package/mariadb), please make sure that they are installed as well.
 
 # Usage
 
