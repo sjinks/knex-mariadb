@@ -1,6 +1,7 @@
 # knex-mariadb
 
 [![js-semistandard-style](https://img.shields.io/badge/code%20style-semistandard-brightgreen.svg?style=flat-square)](https://github.com/Flet/semistandard)
+[![npm version](https://img.shields.io/npm/v/knex-mariadb.svg)](https://www.npmjs.com/package/knex-mariadb)
 
 MariaDB Client for Knex.js
 
