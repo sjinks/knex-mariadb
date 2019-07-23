@@ -28,3 +28,8 @@ const knex = require('knex')({
   // Other options go here
 });
 ```
+
+# Notes:
+
+`knex-mariadb` 1.x is for knex up to 0.18.4
+`knex-mariadb` 2.x is for knex 0.19+

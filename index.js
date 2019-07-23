@@ -1,4 +1,4 @@
-const Client_MySQL = require('knex/src/dialects/mysql/index');
+const Client_MySQL = require('knex/lib/dialects/mysql/index');
 
 class Client_MariaDB extends Client_MySQL {
   driverName = 'mariadb';
