@@ -1,6 +1,6 @@
 {
   "name": "knex-mariadb",
-  "version": "2.0.1",
+  "version": "2.0.2",
   "description": "MariaDB Client for Knex.js",
   "main": "index.js",
   "scripts": {
