@@ -26,6 +26,6 @@
   },
   "devDependencies": {
     "knex": "^0.95.1",
-    "mariadb": "^2.5.2"
+    "mariadb": "^3.0.2"
   }
 }
